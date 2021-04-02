@@ -1,6 +1,6 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on sverben.nl
-- 🌱 I’m currently learning nodejs
+- 🔭 I’m currently working on my website: sverben.nl!
+- Making some opensource software!
 
