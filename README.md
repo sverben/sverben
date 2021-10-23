@@ -2,10 +2,7 @@
 Hi there 👋
   </h4>
 
-<ul align=center>
-  <li>I’m currently working on my website: sverben.nl!</li>
-  <li>Making spigot plugins</li>
-  </ol>
+I'm sverben
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sverben&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)
 
